@@ -1,0 +1,32 @@
+18:21:21.119 [main] DEBUG com.fprocess.FileProcess - main()
+18:21:21.122 [main] DEBUG com.fprocess.FileProcess - checkArgs()
+18:21:21.123 [main] DEBUG com.fprocess.FileProcess - Total elapsed time: 0 ms
+18:21:21.123 [main] DEBUG com.fprocess.FileProcess - Memory Before = 7868KB   Memory After = 7868KB
+18:25:27.590 [main] DEBUG com.fprocess.FileProcess - main()
+18:25:27.592 [main] DEBUG com.fprocess.FileProcess - checkArgs()
+18:25:27.592 [main] DEBUG com.fprocess.FileProcess - inputFileName1 - input1.txt
+18:25:27.593 [main] DEBUG com.fprocess.FileProcess - inputFileName2 - input2.txt
+18:25:27.593 [main] DEBUG com.fprocess.FileProcess - outputFileName - merge.txt
+18:25:27.593 [main] DEBUG com.fprocess.FileProcess - checkArgs() - returns true
+18:25:27.600 [main] DEBUG com.fprocess.FileProcess - Total elapsed time: 0 ms
+18:25:27.600 [main] DEBUG com.fprocess.FileProcess - Memory Before = 7868KB   Memory After = 7868KB
+18:26:46.637 [main] DEBUG com.fprocess.FileProcess - main()
+18:26:46.639 [main] DEBUG com.fprocess.FileProcess - checkArgs()
+18:26:46.639 [main] DEBUG com.fprocess.FileProcess - inputFileName1 - input1.txt
+18:26:46.639 [main] DEBUG com.fprocess.FileProcess - inputFileName2 - input2.txt
+18:26:46.640 [main] DEBUG com.fprocess.FileProcess - outputFileName - merge.txt
+18:26:46.640 [main] DEBUG com.fprocess.FileProcess - checkArgs() - returns true
+18:26:46.640 [main] DEBUG com.fprocess.FileProcess - Problem 2 Execution
+18:26:46.641 [main] DEBUG com.fprocess.FileMerger - merge()
+18:26:46.650 [main] DEBUG com.fprocess.FileProcess - Total elapsed time: 10 ms
+18:26:46.650 [main] DEBUG com.fprocess.FileProcess - Memory Before = 7868KB   Memory After = 7868KB
+18:27:25.140 [main] DEBUG com.fprocess.FileProcess - main()
+18:27:25.142 [main] DEBUG com.fprocess.FileProcess - checkArgs()
+18:27:25.142 [main] DEBUG com.fprocess.FileProcess - inputFileName1 - input1.txt
+18:27:25.142 [main] DEBUG com.fprocess.FileProcess - inputFileName2 - input2.txt
+18:27:25.142 [main] DEBUG com.fprocess.FileProcess - outputFileName - merge.txt
+18:27:25.142 [main] DEBUG com.fprocess.FileProcess - checkArgs() - returns true
+18:27:25.142 [main] DEBUG com.fprocess.FileProcess - Problem 2 Execution
+18:27:25.143 [main] DEBUG com.fprocess.FileMerger - merge()
+18:27:25.151 [main] DEBUG com.fprocess.FileProcess - Total elapsed time: 8 ms
+18:27:25.151 [main] DEBUG com.fprocess.FileProcess - Memory Before = 7868KB   Memory After = 7868KB
